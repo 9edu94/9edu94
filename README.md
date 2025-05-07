@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Eduardo Rodrigues
+- 👋 Hi, I’m Eduardo Rodrigues.
 - 👀 I’m interested in Quantum Chemistry, Chemical Education, Computational Chemistry and in the free time, History.
 - 🌱 I’m currently beginning to learn Python (all over again), Machine Learning. 
 - 💞️ I’m trying to find a job.
